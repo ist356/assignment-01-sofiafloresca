@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Sofia Floresca
+Sudent Email:  slflores@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I didn't have much trouble with this lab, though it took me some time to remember the syntax for adding items to lists (append). I also had problems getting the tests to run but I realized that wasn't my fault when I looked up the error message I was getting.
